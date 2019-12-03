@@ -137,3 +137,12 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
         desc = "Discuss development issues around the project"
 		
 
+[[menu.main]]
+    name = "Pricing"
+    weight = 40
+    url = "https://v2red.com"
+
+[[menu.main]]
+    name = "Client Area"
+    weight = 50
+    url = "https://v2red.com"
