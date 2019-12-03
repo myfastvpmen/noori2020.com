@@ -58,11 +58,18 @@ description = "A Docsy example site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
+[languages.cn]
+title = "Goldydocs"
+description = "Docsy er operativsystem for skyen"
+languageName ="Chinese"
+contentDir = "content/cn"
+weight = 2
 [languages.ko]
 title = "Goldydocs"
 description = "Docsy er operativsystem for skyen"
 languageName ="Korean"
 contentDir = "content/ko"
+weight = 3
 
 
 # Everything below this are Site Params
