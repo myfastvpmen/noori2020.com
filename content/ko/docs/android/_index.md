@@ -1,16 +1,14 @@
-
 ---
-title: "Data i skyen"
-linkTitle: "Sky-data"
-date: 2017-01-03
+title: "Android"
+linkTitle: "Android"
+weight: 9
 description: >
-  En kort oppsummering av denne siden. Tekst kan **utheves** sller skrives i _kursiv_ og kan ha flere avsnitt.
+  Low level Android docs for your project.
 ---
 
-Dette er landingssiden til en seksjon et sted nede i seksjonshierarkiet.
+{{% pageinfo %}}
+This is a placeholder page that shows you how to use this template site.
+{{% /pageinfo %}}
 
-* Oppsummer
-* Seksjonen din
-* Her
-
-
+If your project has an API, configuration, or other Android - anything that users need to look up that’s at an even lower level than a single task - put (or link to it) here. You can serve and link to generated Android docs created using Doxygen,
+Javadoc, or other doc generation tools by putting them in your `static/` directory. Find out more in [Adding static content](https://docsy.dev/docs/adding-content/content/#adding-static-content). For OpenAPI Android, Docsy also provides a [Swagger UI layout and shortcode](https://www.docsy.dev/docs/adding-content/shortcodes/#swaggerui) that renders [Swagger UI](https://swagger.io/tools/swagger-ui/) using any OpenAPI YAML or JSON file as source.
