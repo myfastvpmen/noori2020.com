@@ -1,17 +1,19 @@
 
 ---
-title: "TechOS-Dokumentasjon"
-linkTitle: "Dokumentasjon"
+title: "How to install v2red"
+linkTitle: "How to install v2red"
 weight: 20
 menu:
   main:
     weight: 20
 ---
 
-Dette er landingssiden til en seksjon på øverste nivå.
+How to install v2red
 
-* Oppsummer
-* Seksjonen din
-* Her
+* iOS
+* Mac OS
+* Win OS
+* Android
+* Router
 
 
