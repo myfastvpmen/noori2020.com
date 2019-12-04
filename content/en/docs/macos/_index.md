@@ -36,102 +36,123 @@ Can your users test their installation, for example by running a commmand or dep
 
 
 
-<header class="major">
-<h3>OS X設備(MACBOOK)V2RAY使用教程</h3>
-前言：您需要確保網絡暢通。下載軟件，配置節點信息，開始使用。
-仔細閱讀並遵從所有步驟，一般僅需10－15分鐘。
-當然，您還需要可用的節點信息，一般可從v2ray提供商頁面獲取。
 
-</header>
 
-<hr />
 
-<h4>第一步，下載用於MAC設備的V2RAY軟件</h4>
-目前僅有一款支持Mac點軟件V2RayX，可在本站下載，也可以前往Github下載
-<div class="table-wrapper">
-<table>
-<thead>
-<tr>
-<th>描述/DESCRIPTION</th>
-<th>鏈接/LINKS</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>V2RayX （最新版 Latest Version）</td>
-<td><a href="https://book.v2rayx.org/download/V2RayX.app.zip" target="_blank" rel="noopener">本地下載</a></td>
-</tr>
-<tr>
-<td>V2RayX （Github所有release版本）</td>
-<td><a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noopener">Github Here</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<h4>第二步，解壓下載的ZIP文件，得到V2RAYX文件</h4>
-將V2RayX文件複製到應用程式，然後直接打開，在彈出的窗口點"install"進行安裝，此過程可能需要輸入系統密碼，授予相關權限，請放心
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-03.png" alt="" /></div>
-如果打開程序，出現如下提示
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-01.png" alt="" /></div>
-請前往“系統偏好設置”－“安全性和隱私”，點“仍要打開”，再點"install"安裝
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-02.png" alt="" /></div>
-安裝完成後，可進入launchpad，找到V2RayX圖標打開
-<h4>第三步，打開程序，配置節點</h4>
-右上角出現V2RayX圖標，點擊圖標調出菜單，點Configure，進行節點設置
 
-V2RayX暫時僅支持URL方式添加，或者手動配置添加，暫不支持訂閱以及二維碼方式添加
-<div class="table-wrapper">
-<table>
-<thead>
-<tr>
-<th>方法/METHOD</th>
-<th>描述/DESCRIPTION</th>
-<th>前往/GO</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>URL方式/URL</td>
-<td>輸入一個URL鏈接，即可完成一個節點配置，相對手動配置方便很多，推薦</td>
-<td><a href="https://book.v2rayx.org/mac.html#url">Here</a></td>
-</tr>
-<tr>
-<td>手動配置/Manually</td>
-<td>增加新節點，並逐一配置相關節點信息</td>
-<td><a href="https://book.v2rayx.org/mac.html#manually">Here</a></td>
-</tr>
-</tbody>
-</table>
-</div>
-<h5 id="url">方法一，URL添加</h5>
-打開程序，右上角出現V2RayX圖標，點擊圖標調出菜單，點Configure，進行節點設置
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-04.png" alt="" /></div>
-點擊圖中紅色圈出的設置圖標，點擊import導入
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-07.png" alt="" /></div>
-從提供商頁面複製節點URL，然後黏貼入彈出的輸入框，點OK
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-08.png" alt="" /></div>
-回到節點配置頁面，可以看到已自動導入該節點信息，點OK
 
-重複上述步驟即可導入多個節點
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-09.png" alt="" /></div>
-再次調出菜單，確保servers已勾選可用節點，點"Load core"開啟V2RayX，一般選擇PAC Mode
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-10.png" alt="" /></div>
-完成，可打開瀏覽器訪問網址測試
-<h5 id="manually">方法二，手動配置</h5>
-打開程序，右上角出現V2RayX圖標，點擊圖標調出菜單，點Configure，進行節點設置
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-04.png" alt="" /></div>
-<h5 id="manually">方法二，手動配置</h5>
-打開程序，右上角出現V2RayX圖標，點擊圖標調出菜單，點Configure，進行節點設置
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-04.png" alt="" /></div>
-先點左下角"+"，增加節點。然後根據提供商提供的節點信息，填入address(服務器地址），後面是端口號，User ID對應UUID，以及alterID，其他如果沒有相關參數，無須修改
 
-DNS處填8.8.8.8,8.8.4.4，點OK保存此節點
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-05.png" alt="" /></div>
-再次調出菜單，確保servers已勾選可用節點，點"Load core"開啟V2RayX，一般選擇PAC Mode
-<div class="image half"><img src="https://book.v2rayx.org/images/mac-06.png" alt="" /></div>
-完成，可打開瀏覽器訪問網址測試
 
-如果某些網址無法訪問，可嘗試Global Mode
+
+
+### Download & Install App
+
+
+<blockquote>BifrostV <img src="https://www.v2ray.com/en/resources/macos.svg" width="20" /></blockquote>
+BifrostV is an macos app based on V2Ray core. It supports VMess, Shadowsocks, socks protocols.
+
+Download: <a href="https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv" target="_blank" rel="noopener">Play Store</a> | <a href="https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv" target="_blank" rel="noopener">APK Pure</a>
+<blockquote>V2RayNG <img src="https://www.v2ray.com/en/resources/macos.svg" width="20" /></blockquote>
+V2RayNG is an macos app based on V2Ray. It provides same feature set as V2Ray core.
+
+Download: <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
+
+> Google play store is not avaliable on China Phone. you can download from official dev site or here. 
+
+
+
+myserverDownload: <a href="http://v2red.com/files/public-docs/v2rayNG_1.1.12.apk" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
+
+install app
+
+![](/img/v2red-macos-01.jpg)
+
+
+### Get server infomation
+
+
+
+
+
+
+### Setting App
+
+open app
+
+![](/img/v2red-macos-02.jpg)
+
+click menu
+
+![](/img/v2red-macos-04.jpg)
+
+click subscription setting
+
+![](/img/v2red-macos-05.jpg)
+
+click + butten
+
+![](/img/v2red-macos-06.jpg)
+
+Paste copied link in url box.
+
+![](/img/v2red-macos-07.jpg)
+
+input any remark name. then click check mark
+
+![](/img/v2red-macos-08.jpg)
+
+Back to homepage, click 3 dot , and click Update subscription
+
+![](/img/v2red-macos-09.jpg)
+
+
+select node you like and click v button
+
+![](/img/v2red-macos-10.jpg)
+
+app asking permission to take control of your network setting, click OK
+
+![](/img/v2red-macos-011.jpg)
+
+if you got green ! Congrat! let's test 'youtube.com'
+
+![](/img/v2red-macos-012.jpg)
+
+![](/img/v2red-macos-013.jpg)
+
+
+![](/img/v2red-macos-014.jpg)
+
+![](/img/v2red-macos-015.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -177,12 +198,12 @@ Pepi is V2Ray compatible app. Is is able create VPN connections based on VMess p
 Download: <a href="https://itunes.apple.com/us/app/pepi/id1283082051?mt=8" target="_blank" rel="noopener">iTunes</a>
 <blockquote>Quantumult <img src="https://www.v2ray.com/en/resources/ios.svg" width="20" /></blockquote>
 Download: <a href="https://itunes.apple.com/us/app/quantumult/id1252015438?mt=8" target="_blank" rel="noopener">iTunes</a>
-<blockquote>BifrostV <img src="https://www.v2ray.com/en/resources/android.svg" width="20" /></blockquote>
-BifrostV is an Android app based on V2Ray core. It supports VMess, Shadowsocks, socks protocols.
+<blockquote>BifrostV <img src="https://www.v2ray.com/en/resources/macos.svg" width="20" /></blockquote>
+BifrostV is an macos app based on V2Ray core. It supports VMess, Shadowsocks, socks protocols.
 
 Download: <a href="https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv" target="_blank" rel="noopener">Play Store</a> | <a href="https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv" target="_blank" rel="noopener">APK Pure</a>
-<blockquote>V2RayNG <img src="https://www.v2ray.com/en/resources/android.svg" width="20" /></blockquote>
-V2RayNG is an Android app based on V2Ray. It provides same feature set as V2Ray core.
+<blockquote>V2RayNG <img src="https://www.v2ray.com/en/resources/macos.svg" width="20" /></blockquote>
+V2RayNG is an macos app based on V2Ray. It provides same feature set as V2Ray core.
 
 Download: <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
 

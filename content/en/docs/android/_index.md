@@ -12,26 +12,13 @@ This is a placeholder page that shows you how to use this template site.
 
 
 
----
-title: "iOS"
-linkTitle: "iOS"
-weight: 1
-description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it? 
----
-
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-
 ### Prepare
 If you read and follow all the steps, it usually only takes 10-15 minutes.
 Of course, you also need the available node information, which can generally be obtained from the v2ray provider page.
 
 sign up on v2red.com and buy plan that you like.
 
-> iOS11 above
+> android11 above
 
 ### Download & Install App
 
@@ -51,6 +38,9 @@ Download: <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang"
 
 myserverDownload: <a href="http://v2red.com/files/public-docs/v2rayNG_1.1.12.apk" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
 
+install app
+
+![](/img/v2red-android-01.png)
 
 
 ### Get server infomation
@@ -69,11 +59,63 @@ click name of your plan
 
 click 'copy' of subscrition link
 
-![](/img/v2red-ios-04.png)
+![](/img/v2red-android-03.png)
+
+
 
 
 
 ### Setting App
+
+open app
+
+![](/img/v2red-android-02.png)
+
+click menu
+
+![](/img/v2red-android-04.png)
+
+click subscription setting
+
+![](/img/v2red-android-05.png)
+
+click + butten
+
+![](/img/v2red-android-06.png)
+
+Paste copied link in url box.
+
+![](/img/v2red-android-07.png)
+
+input any remark name. then click check mark
+
+![](/img/v2red-android-08.png)
+
+Back to homepage, click 3 dot , and click Update subscription
+
+![](/img/v2red-android-09.png)
+
+
+select node you like and click v button
+
+![](/img/v2red-android-10.png)
+
+app asking permission to take control of your network setting, click OK
+
+![](/img/v2red-android-11.png)
+
+if you got green ! Congrat! let's test 'youtube.com'
+
+![](/img/v2red-android-12.png)
+
+
+
+
+
+
+
+
+
 
 
 | mode      | explain         |
@@ -84,51 +126,5 @@ click 'copy' of subscrition link
 | Secene  | see official website        |
 > you can configure more detiles in setting. custimze filtering, please refer website
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5 id="subscription">方法一，訂閱方式</h5>
-打開V2RayNG，右上角點 <img src="https://book.v2rayx.org/images/andoird-settings-icon.png" alt="" height="15" /> ，調出菜單，點“訂閱設置”
-<div class="image half"><img src="https://book.v2rayx.org/images/android-02.png" alt="" /></div>
-地址(url)填寫提供商提供的訂閱地址，備註可自定義名稱，一般填提供商名稱，方便識別，右上角點勾保存
-<div class="image half"><img src="https://book.v2rayx.org/images/android-03.png" alt="" /></div>
-自動從訂閱地址獲取所有節點信息，您也可以在右上角菜單中，隨時手動“更新訂閱”
-
-選擇任意已配置節點，點右下角圖標，啟動服務。稍等片刻，提示啟動服務成功
-<div class="image half"><img src="https://book.v2rayx.org/images/android-04.png" alt="" /></div>
-如果啟動過程彈出提示，請勾選“我信任此應用”，然後確定
-<div class="image half"><img src="https://book.v2rayx.org/images/android-05.png" alt="" /></div>
-完成，可打開瀏覽器訪問網址測試
-<h5 id="scan">方法二，掃碼配置</h5>
-首先在提供商網頁上打開v2ray節點的二維碼圖片
-
-打開V2RayNG，右上角點“+”，選擇“掃描二維碼”
-<div class="image half"><img src="https://book.v2rayx.org/images/android-06.png" alt="" /></div>
-程序自動識別二維碼並導入服務器節點信息
-
-選擇任意已配置節點，點右下角圖標，啟動服務。稍等片刻，提示啟動服務成功
-<div class="image half"><img src="https://book.v2rayx.org/images/android-04.png" alt="" /></div>
-如果啟動過程彈出提示，請勾選“我信任此應用”，然後確定
-<div class="image half"><img src="https://book.v2rayx.org/images/android-05.png" alt="" /></div>
-完成，可打開瀏覽器訪問網址測試
-<h5 id="manually">方法三，手動配置</h5>
-打開V2RayNG，右上角點“+”，選擇“手動輸入[Vmess]”
-<div class="image half"><img src="https://book.v2rayx.org/images/android-07.png" alt="" /></div>
-根據提供商提供的節點信息，填入地址／端口／用戶ID/AlterID，其他沒有不用改，remark可自命名，然後點“完成”
-<div class="image half"><img src="https://book.v2rayx.org/images/android-08.png" alt="" /></div>
-選擇任意已配置節點，點右下角圖標，啟動服務。稍等片刻，提示啟動服務成功
-<div class="image half"><img src="https://book.v2rayx.org/images/android-04.png" alt="" /></div>
-如果啟動過程彈出提示，請勾選“我信任此應用”，然後確定
-<div class="image half"><img src="https://book.v2rayx.org/images/android-05.png" alt="" /></div>
-完成，可打開瀏覽器訪問網址測試
+you can just select config is also okay. this tutorial select proxy.
+> you can configure more detiles in setting. custimze filtering, rules, please refer website
