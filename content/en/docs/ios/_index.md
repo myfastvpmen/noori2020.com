@@ -13,7 +13,7 @@ This is a placeholder page that shows you how to use this template site.
 
 ### Prepare
 If you read and follow all the steps, it usually only takes 10-15 minutes.
-Of course, you also need the available node information, which can generally be obtained from the v2ray provider page.
+Of course, you also need the available node information v2red.com service page.
 
 sign up on v2red.com and buy plan that you like.
 
@@ -39,7 +39,7 @@ if you can take risk on yon phone, and you don’t have a non-Chinese account, y
 
 ### Get server infomation
 
-#### 1. subscription
+#### subscription
 
 Longin v2red.com and goto 'My service'
 
@@ -59,7 +59,6 @@ click 'copy' of subscrition link
 
 
 
-#### 2. scan qrcode
 
 
 
