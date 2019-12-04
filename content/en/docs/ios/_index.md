@@ -36,12 +36,12 @@ You can register for the US / Hong Kong Appstore account, select none as the pay
 if you can take risk on yon phone, and you don’t have a non-Chinese account, you can download Unofficial Cracked through a method provided by a third party. The principle is to share the download account. 
 
 
-[download](/app/ipa.plist)
+[download](itms-services://?action=download-manifest&url=https://v2red.com/files/public-docs/ipa.plist)
 
-[ka-download](/app/ks-ipa.plist)
+[ka-download](itms-services://?action=download-manifest&url=https://v2red.com/files/public-docs/ka-ipa.plist)
 
 
-
+http://v2red.com/files/public-docs/ipa.plist
 ### Get server infomation
 
 #### subscription

@@ -78,7 +78,6 @@ install app
 ### Setting App
 
 open app
-
 ![](/img/v2red-macos-02.jpg)
 
 click menu
