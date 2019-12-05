@@ -3,82 +3,41 @@ title: "macOS"
 linkTitle: "macOS"
 weight: 2
 description: >
-  What does your user need to know to try your project?
+  Install and setting guide for Macbook | iMac.
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+
+For more detaile app setting , we are makeing other tutorial, this guide you just download and install.
+
 {{% /pageinfo %}}
 
-Information in this section helps your user try your project themselves.
+### 1. Prepare
 
-* What do your users need to do to start using your project? This could include downloading/installation instructions, including any prerequisites or system requirements.
+macOSX Mojavie or above
 
-* Introductory “Hello World” example, if appropriate. More complex tutorials should live in the Tutorials section.
+### 2. Download 
 
-Consider using the headings below for your macOS page. You can delete any that are not applicable to your project.
+| APP                  | Official github        |  Download   |
+|----------------------|--------------------------------|-------------------------------|
+| V2RayU   | [Github](https://github.com/yanue/V2rayU)       | [download](http://v2red.com/files/public-docs/V2rayU.dmg) |
+| V2RayX   | [Github](https://github.com/Cenmrev/V2RayX)     |  none |
+| V2RayC   | [Github](https://github.com/gssdromen/V2RayC)   |  none |
+| ClashX   | [Github](https://github.com/yichengchen/clashX) |  none |
 
-## Prerequisites
+> this tutorial using [V2RayU](http://v2red.com/files/public-docs/V2rayU.dmg) for example.
 
-Are there any system requirements for using your project? What languages are supported (if any)? Do users need to already have any software or tools installed?
+### 3. Install App
 
-## Installation
-
-Where can your user find your project code? How can they install it (binaries, installable package, build from source)? Are there multiple options/versions they can install and how should they choose the right one for them?
-
-## Setup
-
-Is there any initial setup users need to do after installation to try your project?
-
-## Try it out!
-
-Can your users test their installation, for example by running a commmand or deploying a Hello World example?
-
-
-
-
-
-
-
-
-
-
-
-
-### Download & Install App
-
-
-<blockquote>BifrostV <img src="https://www.v2ray.com/en/resources/macos.svg" width="20" /></blockquote>
-BifrostV is an macos app based on V2Ray core. It supports VMess, Shadowsocks, socks protocols.
-
-Download: <a href="https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv" target="_blank" rel="noopener">Play Store</a> | <a href="https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv" target="_blank" rel="noopener">APK Pure</a>
-<blockquote>V2RayNG <img src="https://www.v2ray.com/en/resources/macos.svg" width="20" /></blockquote>
-V2RayNG is an macos app based on V2Ray. It provides same feature set as V2Ray core.
-
-Download: <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
-
-> Google play store is not avaliable on China Phone. you can download from official dev site or here. 
-
-
-
-myserverDownload: <a href="http://v2red.com/files/public-docs/v2rayNG_1.1.12.apk" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
-
-install app
+copy to application folder
 
 ![](/img/v2red-macos-01.jpg)
 
+click okay
 
-### Get server infomation
-
-
-
-
-
-
-### Setting App
-
-open app
 ![](/img/v2red-macos-02.jpg)
+
+![](/img/v2red-macos-03.jpg)
 
 click menu
 
@@ -91,6 +50,27 @@ click subscription setting
 click + butten
 
 ![](/img/v2red-macos-06.jpg)
+
+### 4. Copy subscribe link
+
+
+### 5. Add subscribe in APP
+### 6. Other setting
+
+
+
+
+
+
+
+
+### Setting App
+
+
+
+
+
+
 
 Paste copied link in url box.
 

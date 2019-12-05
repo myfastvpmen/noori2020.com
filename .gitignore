@@ -8,3 +8,4 @@ tech-doc-hugo
 static/.DS_Store
 .DS_Store
 .gitignore
+static/.DS_Store

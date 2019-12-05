@@ -3,15 +3,27 @@ title: "iOS"
 linkTitle: "iOS"
 weight: 1
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it? 
+  Install and setting guide for iOS
 ---
 
+
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+
+For more detaile app setting , we are makeing other tutorial, this guide you just download and install.
+
 {{% /pageinfo %}}
+### 1. Prepare
+### 2. Download 
+### 3. Install App
+### 4. Copy subscribe link
+### 5. Add subscribe in APP
+### 6. Other setting
 
 
-### Prepare
+
+
+### 1. Prepare
+
 If you read and follow all the steps, it usually only takes 10-15 minutes.
 Of course, you also need the available node information v2red.com service page.
 
@@ -19,32 +31,25 @@ sign up on v2red.com and buy plan that you like.
 
 iOS11 above
 
-### Download & Install App
+### 2. Download 
 
 
-
-| APP                  | Official APPSTORE 下載          | Unofficial Cracked 非官方      |
+| APP                  | Official APPSTORE         | Unofficial Cracked     |
 |----------------------|--------------------------------|-------------------------------|
-| shadowrocket $2.99   | [app store](http://v2red.com)(recommend)  | [download](http://v2red.com) |
-| Kitsunebi $4.99      | [app store](http://v2red.com)  | [download](http://v2red.com) |
-| Quantumult $4.99     | [app store](http://v2red.com)  | [download](http://v2red.com) |
+| shadowrocket $2.99   | [app store](http://v2red.com)(recommend)  | [download](itms-services://?action=download-manifest&url=https://v2red.com/files/public-docs/ipa.plist) |
+| Kitsunebi $4.99      | [app store](http://v2red.com)  | [download](itms-services://?action=download-manifest&url=https://v2red.com/files/public-docs/ka-ipa.plist) |
+| Quantumult $4.99     | [app store](http://v2red.com)  | none |
 
 > the above apps can NOT be purchased and downloaded in the China Appstore. 
+> if you can take risk on yon phone, and you don’t have a non-Chinese account, you can download Unofficial Cracked through a method provided by a third party. NOT 100% working...  
+
+
+### 3. Install App (shadowrocket)
 
 You can register for the US / Hong Kong Appstore account, select none as the payment method, and the billing address information can be fake from Google Maps. Then purchase GiftCards from Taobao to recharge this Appstore account. Buy again and download App.
 
-if you can take risk on yon phone, and you don’t have a non-Chinese account, you can download Unofficial Cracked through a method provided by a third party. The principle is to share the download account. 
+### 4. Copy subscribe link
 
-
-[download](itms-services://?action=download-manifest&url=https://v2red.com/files/public-docs/ipa.plist)
-
-[ka-download](itms-services://?action=download-manifest&url=https://v2red.com/files/public-docs/ka-ipa.plist)
-
-
-http://v2red.com/files/public-docs/ipa.plist
-### Get server infomation
-
-#### subscription
 
 Longin v2red.com and goto 'My service'
 
@@ -65,10 +70,7 @@ click 'copy' of subscrition link
 
 
 
-
-
-
-### Setting App
+### 5. Add subscribe in APP
 
 open shodowroket and click
 
@@ -85,6 +87,10 @@ Select subscribe
 Paste yout copied link and input your remark name. then lick done
 
 ![](/img/v2red-ios-08.png)
+
+> server list may diffrent depend on time and plan.
+
+### 6. Other setting
 
 Select Global routing mode
 
@@ -118,9 +124,6 @@ now you can see vpn is ON !
 if sometimes not working, you can try slide list to update server list,  
 
 ![](/img/v2red-ios-14.png)
-
-
-
 
 
 
