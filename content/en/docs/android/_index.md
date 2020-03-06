@@ -3,7 +3,7 @@ title: "Android"
 linkTitle: "Android"
 weight: 9
 description: >
-  Low level Android docs for your project.
+  Install on Android.
 ---
 
 {{% pageinfo %}}

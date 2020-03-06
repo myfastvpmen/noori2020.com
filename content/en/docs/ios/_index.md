@@ -55,10 +55,6 @@ Longin v2red.com and goto 'My service'
 
 ![](/img/v2red-ios-01.png)
 
-click 'Services'
-
-![](/img/v2red-ios-02.png)
-
 click name of your plan
 
 ![](/img/v2red-ios-03.png)
@@ -120,6 +116,8 @@ Allow to setup VPN in phone setting with your phone password
 now you can see vpn is ON !
 
 ![](/img/v2red-ios-13.png)
+
+### 7. update server list
 
 if sometimes not working, you can try slide list to update server list,  
 
