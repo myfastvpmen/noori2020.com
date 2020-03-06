@@ -7,34 +7,31 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+카톡을 통해 구독 주소를 받고 진행해야합니다.
+구독주소를 통해 여러서버를 한번에 추가가능하며, 항상 최신 정보로 업데이트됩니다.
+(고급계정설정은 아직 업데이트 중입니다.)
 {{% /pageinfo %}}
 
 
-### Prepare
-If you read and follow all the steps, it usually only takes 10-15 minutes.
-Of course, you also need the available node information, which can generally be obtained from the v2ray provider page.
+### 준비하기
 
-sign up on v2red.com and buy plan that you like.
+1. 아이폰 iOS 11 이상
+2. 구독주소
 
-iOS11 above
+### 다운로드 및 설치
 
-### Download & Install App
+>아이폰의 경우 설정가능한 무료어플이 있지만, 고급설정을 사용힐수가 없어 서버 등록이 번거롭고 업데이트도 안되며 속도가 느리고 불안정합니다. (광고는 덤)
+반드시 유료 어플이 필수입니다. 아래 여러가지가 어플이 있고 서로 장단점이 있습니다. 이곳에서는 shadowrocket으로 진행합니다. 모든 어플도 기본적인 기능은 비슷합니다.
 
+| APP ($2 ~ $4 변동가능)                  | Official APPSTORE   |
+|----------------------|------------------------------------|
+| shadowrocket   | [app store](http://v2red.com)(recommend)   |
+| Kitsunebi       | [app store](http://v2red.com)  |
+| Quantumult    | [app store](http://v2red.com)  |
 
+> 위 어플은 중국 앱스토에서 구매가 불가합니다.
 
-| APP                  | Official APPSTORE 下載          | Unofficial Cracked 非官方      |
-|----------------------|--------------------------------|-------------------------------|
-| shadowrocket $2.99   | [app store](http://v2red.com)(recommend)  | [download](http://v2red.com) |
-| Kitsunebi $4.99      | [app store](http://v2red.com)  | [download](http://v2red.com) |
-| Quantumult $4.99     | [app store](http://v2red.com)  | [download](http://v2red.com) |
-
-> the above apps can NOT be purchased and downloaded in the China Appstore. 
-
-You can register for the US / Hong Kong Appstore account, select none as the payment method, and the billing address information can be fake from Google Maps. Then purchase GiftCards from Taobao to recharge this Appstore account. Buy again and download App.
-
-if you can take risk on yon phone, and you don’t have a non-Chinese account, you can download Unofficial Cracked through a method provided by a third party. The principle is to share the download account. 
-
+한국 앱스토어에서 받으시거나, 홍콩 또는 미국 계정을 만드신후, 신용카드가 없는경우, 타오바오에서 기프트카드를 구입후 충전하여 다운로드 할수가 있습니다.
 
 
 ### Get server infomation
