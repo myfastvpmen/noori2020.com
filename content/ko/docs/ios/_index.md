@@ -1,9 +1,9 @@
 ---
-title: "iOS"
-linkTitle: "iOS"
+title: "아이폰 (iOS)"
+linkTitle: "아이폰 (iOS)"
 weight: 1
 description: >
-  What does your user need to understand about your project in order to use it - or potentially contribute to it? 
+  아이폰에 설치하기
 ---
 
 {{% pageinfo %}}

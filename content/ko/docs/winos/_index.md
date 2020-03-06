@@ -1,9 +1,9 @@
 ---
-title: "winOS"
-linkTitle: "winOS"
+title: "윈도우 (winOS)"
+linkTitle: "윈도우 (winOS)"
 weight: 3
 description: >
-  Here's where your user finds out if your project is for them.
+  윈도우 컴퓨터에 설치하기.
 ---
 
 {{% pageinfo %}}

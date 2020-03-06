@@ -1,9 +1,9 @@
 ---
-title: "Android안드로이드"
-linkTitle: "Android"
+title: "안드로이드(Android)"
+linkTitle: "안드로이드(Android)"
 weight: 9
 description: >
-  안드로이드 설치하기.
+  안드로이드에 설치하기.
 ---
 
 {{% pageinfo %}}
