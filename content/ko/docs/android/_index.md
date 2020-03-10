@@ -28,7 +28,8 @@ Download: <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang"
 
 > 중국폰에서는 보통 구글플레이를 사용할수 없습니다. 아래 링크를 통해 다운받으세요.
 
-V2RayNG: <a href="http://v2red.com/files/public-docs/v2rayNG_1.1.12.apk" target="_blank" rel="noopener">다운로드</a> 
+V2RayNG: <a href="http://v2red.com/files/public-docs/v2rayNG_1.1.12.apk" target="_blank" rel="noopener">다운로드 v1.1</a> 
+<a href="http://v2red.com/files/public-docs/v2rayNG_1.2.2.apk" target="_blank" rel="noopener">다운로드 v1.2 (추천)</a>
 
 따로 설치방법은 없습니다. 다운받고 설치하세요.
 
