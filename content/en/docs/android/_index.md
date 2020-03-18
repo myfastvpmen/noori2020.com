@@ -7,43 +7,35 @@ description: >
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+if you don't have Subscription Code. Please ask by wechat.
 {{% /pageinfo %}}
 
+### 1. 준비하기
+1. Android Phone
+2. Subscription Code
 
+### 2. 다운로드 및 설치
 
-### Prepare
-If you read and follow all the steps, it usually only takes 10-15 minutes.
-Of course, you also need the available node information, which can generally be obtained from the v2ray provider page.
+We are using V2RayNG
 
-sign up on v2red.com and buy plan that you like.
-
-> android11 above
-
-### Download & Install App
-
-
-<blockquote>BifrostV <img src="https://www.v2ray.com/en/resources/android.svg" width="20" /></blockquote>
-BifrostV is an Android app based on V2Ray core. It supports VMess, Shadowsocks, socks protocols.
-
-Download: <a href="https://play.google.com/store/apps/details?id=com.github.dawndiy.bifrostv" target="_blank" rel="noopener">Play Store</a> | <a href="https://apkpure.com/bifrostv/com.github.dawndiy.bifrostv" target="_blank" rel="noopener">APK Pure</a>
 <blockquote>V2RayNG <img src="https://www.v2ray.com/en/resources/android.svg" width="20" /></blockquote>
-V2RayNG is an Android app based on V2Ray. It provides same feature set as V2Ray core.
 
 Download: <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
 
-> Google play store is not avaliable on China Phone. you can download from official dev site or here. 
+> in China, you can not use google play, you donwload below here
 
+V2RayNG: <a href="http://v2red.com/files/public-docs/v2rayNG_1.1.12.apk" target="_blank" rel="noopener">Download v1.1-Old</a> 
+<a href="http://v2red.com/files/public-docs/v2rayNG_1.2.2.apk" target="_blank" rel="noopener">Download v1.2 (New)</a>
 
-
-myserverDownload: <a href="http://v2red.com/files/public-docs/v2rayNG_1.1.12.apk" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
-
-install app
+Just download and install.
 
 ![](/img/v2red-android-01.png)
+installing...
 
 
-### Get server infomation
+### 3. Get Subscription Code
+
+>> if you already have Subscription Code go to [Setting App](/en/docs/android/#4-Setting-App)로 넘어가셔도 됩니다.
 
 Longin v2red.com and goto 'My service'
 
@@ -65,7 +57,7 @@ click 'copy' of subscrition link
 
 
 
-### Setting App
+### 4. Setting App
 
 open app
 
@@ -109,13 +101,7 @@ if you got green ! Congrat! let's test 'youtube.com'
 ![](/img/v2red-android-12.png)
 
 
-
-
-
-
-
-
-
+### 5. Connetion Setting
 
 
 | mode      | explain         |
