@@ -11,7 +11,7 @@ description: >
 {{% /pageinfo %}}
 
 
-<form name="contact" method="POST" data-netlify="true">
+<form name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
   <p>
     <label>이름: <input type="text" name="name" /></label>   
   </p>
@@ -34,7 +34,7 @@ description: >
     <label>추천인: <input type="text" name="name" /></label>   
   </p>
 
-
+<div data-netlify-recaptcha="true"></div>
   <p>
     <button type="submit">Send</button>
   </p>
