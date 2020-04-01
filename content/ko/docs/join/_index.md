@@ -6,15 +6,7 @@ description: >
   가입하기.
 ---
 
-{{% pageinfo %}}
-가입하기
-{{% /pageinfo %}}
-
-
-<form class="form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
-  <p class="hidden">
-    <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
-  </p>
+<form class="form" name="contact" method="POST" data-netlify="true">
   <p>
     <label>이름: <input type="text" name="name" /></label>   
   </p>
@@ -25,12 +17,15 @@ description: >
     <label>원하는 비번: <input type="password" name="password" /></label>
   </p>
   <p>
-    <label>전화번호: <input type="text" name="phone" /></label>   
+    <label>위쳇: <input type="text" name="phone" /></label>   
   </p>
   <p>
-    <label>기간선택: <select name="plan[]" single>
-      <option value="6month">6개월</option>
-      <option value="12momth">1년</option>
+    <label>기간선택: <select name="plan" single>
+          <option value="12momth">1년 + 3개월무료</option>
+          <option value="6month">6개월 + 1개월 무료</option>
+          <option value="3month">3개월</option>
+          <option value="1month">1개월</option>
+
     </select></label>
   </p>
     <p>
