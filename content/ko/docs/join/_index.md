@@ -28,7 +28,7 @@ description: >
     <label>전화번호: <input type="text" name="phone" /></label>   
   </p>
   <p>
-    <label>기간선택: <select name="plan[]" multiple>
+    <label>기간선택: <select name="plan[]" single>
       <option value="6month">6개월</option>
       <option value="12momth">1년</option>
     </select></label>
