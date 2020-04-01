@@ -54,8 +54,8 @@ id = "UA-00000000-0"
 [languages]
 [languages.ko]
 title = ""
-description = "A Docsy example site"
-languageName ="English"
+description = "Noori network"
+languageName ="Korean"
 # Weight used for sorting.
 weight = 1
 
@@ -128,9 +128,9 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 [[menu.main]]
     name = "가입신청"
     weight = 50
-    url = "https://v2red.com"
+    url = "/docs/join"
 
 [[menu.main]]
-    name = "문의하기"
+    name = "Q&A"
     weight = 52
-    url = "https://v2red.com"
+    url = "/docs/qna"
