@@ -19,19 +19,19 @@ description: >
     <label>아이디&이메일: <input type="email" name="email" /></label>
   </p>
     <p>
-    <label>원하는 비번: <input type="password" name="email" /></label>
+    <label>원하는 비번: <input type="password" name="password" /></label>
   </p>
   <p>
-    <label>전화번호: <input type="text" name="name" /></label>   
+    <label>전화번호: <input type="text" name="phone" /></label>   
   </p>
   <p>
-    <label>기간선택: <select name="role[]" multiple>
-      <option value="leader">6개월</option>
-      <option value="follower">1년</option>
+    <label>기간선택: <select name="plan[]" multiple>
+      <option value="6month">6개월</option>
+      <option value="12momth">1년</option>
     </select></label>
   </p>
     <p>
-    <label>추천인: <input type="text" name="name" /></label>   
+    <label>추천인: <input type="text" name="recomand" /></label>   
   </p>
 
 <div data-netlify-recaptcha="true"></div>
