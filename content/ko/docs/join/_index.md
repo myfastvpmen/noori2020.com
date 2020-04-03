@@ -56,12 +56,15 @@ form.form p.submit {
 form.form p.required label, form.form span.required label {
     font-weight:bold;
 }
+p.hidden {
+  visibility: hidden;
+}
 </style>
 
-
-
- <br><br>
-<form class="form" name="application" method="POST" data-netlify="true">
+<form class="form" name="application" method="POST" netlify-honeypot="bot-field" data-netlify="true">
+  <p class="hidden">
+    <label>D<input name="bot-field" /></label>
+  </p>
   <p>
     <label>이메일(사용자ID): </label><input class="text" type="email" name="Email" />
   </p>
