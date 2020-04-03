@@ -19,16 +19,11 @@ macOSX Mojavie 버젼 이상
 
 ### 2. 어플 다운로드하기
 
-| APP                  | Official github        |
-|----------------------|--------------------------------|
-| V2RayU  (추천) | [Github](https://github.com/yanue/V2rayU)       |
-| V2RayX   | [Github](https://github.com/Cenmrev/V2RayX)     |
-| V2RayC   | [Github](https://github.com/gssdromen/V2RayC)   |
-| ClashX   | [Github](https://github.com/yichengchen/clashX) |
+<blockquote><i class="fab fa-apple"></i> V2ray용 : V2rayU v3.13 | 
+<a href="http://v2red.com/files/public-docs/win/v2rayN-Core.zip" target="_blank" rel="noopener">다운로드(22.4MB)</a>
+</blockquote>
 
-> V2rayU 추천하며 이 어플로 튜토리얼을 진행합니다.
-
-Github 공식 싸이트에서 다운받거나 [V2RayU 다운로드](http://v2red.com/files/public-docs/V2rayU.dmg) 
+IKEv2: 설치필요 없음
 
 ### 3. 어플 설치하기
 
@@ -63,26 +58,6 @@ v2rayU.dmg 더블클릭, 어플을 어플리케이션 폴더로 복사
 ![](/img/v2red-macos-07.jpg)
 
 ### 4. 구독주소 얻기
-
->> 카톡을 통해 구독주소를 받은 경우 [어플 세팅하기](/ko/docs/macos/#5-어플-세팅하기)로 넘어가셔도 됩니다.
-
-
-[Login](https://v2red.com) 후 'My service' 클릭
-
-![](/img/v2red-macos-08.jpg)
-
-클릭 Active
-
-![](/img/v2red-macos-09.jpg)
-
-클릭 Copy (subscribe)
-
-![](/img/v2red-macos-010.jpg)
-
-클릭 okay, 주소가 클립보드에 복사완료
-
-![](/img/v2red-macos-011.jpg)
-
 
 ### 5. 어플 세팅하기
 
@@ -121,3 +96,10 @@ URL에 구독주소 정확히 입력 (Remarks는 아무거나 입력) 후 update
 어플 세팅을 통해 필터링이나 룰등을 사용자 환경에 맞게 설정 및 변경할수 있습니다.
 
 
+
+| APP                  | Official github        |
+|----------------------|--------------------------------|
+| V2RayU  (추천) | [Github](https://github.com/yanue/V2rayU)       |
+| V2RayX   | [Github](https://github.com/Cenmrev/V2RayX)     |
+| V2RayC   | [Github](https://github.com/gssdromen/V2RayC)   |
+| ClashX   | [Github](https://github.com/yichengchen/clashX) |

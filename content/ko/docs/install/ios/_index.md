@@ -33,26 +33,6 @@ description: >
 
 한국 앱스토어에서 받으시거나, 한국,홍콩,미국 계정을 카드 없이 무료로 만드신후, 신용카드가 없는경우, 타오바오에서 기프트카드를 구입후 충전하여 다운로드 할수가 있습니다.
 
-### 3. 구독 주소 얻기
-
->> 카톡을 통해 구독주소를 받은 경우 [어플 세팅하기](/ko/docs/ios/#4-어플-세팅하기)로 넘어가셔도 됩니다.
-
-[Login](https://v2red.com) 후 'My service' 클릭
-
-![](/img/v2red-ios-01.png)
-
-클릭 'Services'
-
-![](/img/v2red-ios-02.png)
-
-플랜 이름을 클릭
-
-![](/img/v2red-ios-03.png)
-
-클릭 'copy' (subscribe link) 구독주소
-
-![](/img/v2red-ios-04.png)
-
 
 ### 4. 어플 세팅하기
 

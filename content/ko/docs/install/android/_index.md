@@ -12,7 +12,6 @@ description: >
 {{% /pageinfo %}}
 
 
-
 ### 1. 준비하기
 1. 안드로이드폰
 2. 구독주소
@@ -22,41 +21,21 @@ description: >
 v2red는 여러가지 프로그램을 통해 사용가능합니다. 사용자의 편의에 맞게 프로그램을 선택할수 있습니다.
 유료 및 무료등 여러가지 조금씩 장단점이 있지만 , 여기서는 무료 프로그램인 V2RayNG를 가지고 설명합니다.
 
-<blockquote>V2RayNG <img src="https://www.v2ray.com/en/resources/android.svg" width="20" /></blockquote>
+<blockquote><i class="fab fa-android"></i> V2ray용 : V2RayNG v1.2.4 | 
+<a href="http://v2red.com/files/public-docs/android/v2rayNG_1.2.4.apk" target="_blank" rel="noopener">다운로드</a>
+</blockquote>
 
-Download: <a href="https://play.google.com/store/apps/details?id=com.v2ray.ang" target="_blank" rel="noopener">Play Store</a> | <a href="https://github.com/2dust/v2rayNG" target="_blank" rel="noopener">GitHub</a>
+<blockquote><i class="fab fa-android"></i> IKEv2용 : Strongswan v2.2.1 | 
+<a href="https://download.strongswan.org/Android/strongSwan-2.2.1.apk" target="_blank" rel="noopener">다운로드 1</a> or
+<a href="http://v2red.com/files/public-docs/android/strongSwan-2.2.1.apk" target="_blank" rel="noopener">다운로드 2</a> 
 
-> 중국폰에서는 보통 구글플레이를 사용할수 없습니다. 아래 링크를 통해 다운받으세요.
+</blockquote>
 
-V2RayNG: <a href="http://v2red.com/files/public-docs/v2rayNG_1.1.12.apk" target="_blank" rel="noopener">다운로드 v1.1</a> 
-<a href="http://v2red.com/files/public-docs/v2rayNG_1.2.2.apk" target="_blank" rel="noopener">다운로드 v1.2 (추천)</a>
 
 따로 설치방법은 없습니다. 다운받고 설치하세요.
 
 ![](/img/v2red-android-01.png)
 설치화면
-
-### 3. 구독주소 얻기 
-
->> 카톡을 통해 구독주소를 받은 경우 [어플 세팅하기](/ko/docs/android/#4-%EC%96%B4%ED%94%8C-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)로 넘어가셔도 됩니다.
-
-[Login](https://v2red.com) 후 'My service' 클릭
-
-![](/img/v2red-ios-01.png)
-
-클릭 'Services'
-
-![](/img/v2red-ios-02.png)
-
-플랜 이름을 클릭
-
-![](/img/v2red-ios-03.png)
-
-클릭 'copy' (subscribe link) 구독주소
-
-![](/img/v2red-android-03.png)
-
-
 
 ### 4. 어플 세팅하기
 

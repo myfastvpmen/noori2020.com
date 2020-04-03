@@ -1,8 +1,11 @@
 ---
-title: "가입하기"
-linkTitle: "가입하기"
+title: "가입신청"
+linkTitle: "가입신청"
 weight: 10
 description: >
+menu:
+  main:
+    weight: 20
 ---
 
 <style>

@@ -125,12 +125,3 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
         desc = "Discuss development issues around the project"
 		
 
-[[menu.main]]
-    name = "가입신청"
-    weight = 50
-    url = "/docs/join"
-
-[[menu.main]]
-    name = "Q&A"
-    weight = 52
-    url = "/docs/qna"

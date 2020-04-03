@@ -14,15 +14,18 @@ windows 10 이상에서 정상작동합니다.
 
 ### 1. 다운로드 및 설치
 
+<blockquote><i class="fab fa-windows"></i> V2ray용 : V2RayN v3.13 | 
+<a href="http://v2red.com/files/public-docs/win/v2rayN-Core.zip" target="_blank" rel="noopener">다운로드(22.4MB)</a>
+</blockquote>
 
+<blockquote><i class="fab fa-windows"></i> V2ray용 : qv2ray v2.4.1  | 
+<a href="http://v2red.com/files/public-docs/win/qv2ray-2.4.1-win64.exe" target="_blank" rel="noopener">다운로드 64bit (20.8MB)</a> |
+<a href="http://v2red.com/files/public-docs/win/qv2ray-2.4.1-win32.exe" target="_blank" rel="noopener">다운로드 32bit (17.8MB)</a>
+</blockquote>
 
+<blockquote>IKEv2용 : 설치 필요없음
+</blockquote>
 
-<blockquote>V2RayN <img src="https://www.v2ray.com/en/resources/win.svg" width="20" /></blockquote>
-제작자 github: <a href="https://github.com/2dust/v2rayN" target="_blank" rel="noopener">Github</a>
-
->> github에 접속할수 없으면 아래 링크를 통해 다운받으세요.
-
-V2RayN: <a href="http://v2red.com/files/public-docs/v2rayN-Core.zip" target="_blank" rel="noopener">다운로드</a> 
 
 다운로드후 C:폴더에 압축을 풀고 v2rayN.exe 를 우클릭하여 관리자권한으로 실행합니다. 
 ![](/img/v2red-winos-01.jpg)
@@ -35,26 +38,6 @@ V2RayN: <a href="http://v2red.com/files/public-docs/v2rayN-Core.zip" target="_b
 >>실행시 에러가 나거나 실행이 안되는 경우 보통 Win10 이하에서는 Microsoft .NET Framework 4.5 이상이 필요합니다. <a href="http://go.microsoft.com/fwlink/p/?LinkId=245484" target="_blank" rel="noopener">MS공식싸이트에서 다운받기</a>
 
 ### 2. 구독주소 얻기
-
->> 카톡을 통해 구독주소를 받은 경우 [프로그램 세팅하기](/ko/docs/winos/#3-프로그램-세팅)로 넘어가셔도 됩니다.
-
-
-[Login](https://v2red.com) 후 'My service' 클릭
-
-![](/img/v2red-macos-08.jpg)
-
-클릭 Active
-
-![](/img/v2red-macos-09.jpg)
-
-클릭 Copy (subscribe)
-
-![](/img/v2red-macos-010.jpg)
-
-클릭 okay, 주소가 클립보드에 복사완료
-
-![](/img/v2red-macos-011.jpg)
-
 
 ### 3. 프로그램 세팅
 

@@ -3,7 +3,9 @@ title: "자주묻는 질문"
 linkTitle: "자주 묻는 질문"
 weight: 9
 description: >
-
+menu:
+  main:
+    weight: 10
 ---
  
 {{% pageinfo %}}
