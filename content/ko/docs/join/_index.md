@@ -61,18 +61,18 @@ form.form p.required label, form.form span.required label {
 
 
  <br><br>
-<form class="form" name="contact" method="POST" data-netlify="true">
+<form class="form" name="application" method="POST" data-netlify="true">
   <p>
-    <label>이메일(사용자ID): </label><input class="text" type="email" name="email" />
+    <label>이메일(사용자ID): </label><input class="text" type="email" name="Email" />
   </p>
   <p>
-    <label>비밀번호: </label><input class="text" type="password" name="password" />
+    <label>비밀번호: </label><input class="text" type="password" name="Password" />
   </p>
     <p>
-    <label>비밀번호확인: </label><input class="text" type="password" name="passwordcheck" />
+    <label>비밀번호확인: </label><input class="text" type="password" name="Passwordcheck" />
   </p>
   <p>
-    <label>전화번호: </label> <input class="text" type="text" name="phone" />  
+    <label>전화번호: </label> <input class="text" type="text" name="Phone" />  
   </p>
   <p>
     <label>기간선택: </label><select name="plan" single>
@@ -83,7 +83,7 @@ form.form p.required label, form.form span.required label {
     </select>
   </p>
     <p>
-    <label>추천인: </label><input class="text" type="text" name="recomand" />   
+    <label>추천인: </label><input class="text" type="text" name="Recomend" />   
   </p>
 
   <p>
