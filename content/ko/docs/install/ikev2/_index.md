@@ -21,3 +21,13 @@ description: >
 [맥북/아이맥 일반 설치방법 PDF](/img/macos-ikev2.pdf)
 
 [윈도우 7/8/10 일반 설치방법 PDF](/img/winos-ikev2.pdf)
+
+## 앱 다운로드
+
+안드로이드 
+<blockquote><i class="fab fa-android"></i> IKEv2용 : Strongswan v2.2.1 (6.5MB) | 
+<a href="https://download.strongswan.org/Android/strongSwan-2.2.1.apk" target="_blank" rel="noopener">다운로드 1</a> or
+<a href="http://v2red.com/files/public-docs/android/strongSwan-2.2.1.apk" target="_blank" rel="noopener">다운로드 2</a> 
+</blockquote>
+
+맥/아이폰/윈도우는 앱설치가 필요없습니다.
