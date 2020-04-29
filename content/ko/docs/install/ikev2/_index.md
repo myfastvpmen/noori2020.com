@@ -3,7 +3,7 @@ title: "일반 계정"
 linkTitle: "일반 계정"
 weight: 9
 description: >
-  일반계정 (IKEv2) 설치방법.
+  일반계정 (IKEv2) 설치방법
 ---
 
 {{% pageinfo %}}

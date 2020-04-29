@@ -4,6 +4,6 @@ linkTitle: "누리 VPN"
 weight: 1
 ---
 
-{{% pageinfo %}}
-자세한 문의는 카톡으로 부탁드립니다.
-{{% /pageinfo %}}
+궁금하신점은 언제든지 문의해주시기 바랍니다.
+
+![](/img/wechatqr2.jpeg)
