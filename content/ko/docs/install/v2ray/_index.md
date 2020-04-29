@@ -14,7 +14,7 @@ description: >
 
 ## 설치방법
 
-[안드로이드 고급 설치방법 PDF (준비중)](/img/android-v2ray.pdf)
+[안드로이드 고급 설치방법 PDF](/img/android-v2ray.pdf)
 
 [아이폰 고급 설치방법 PDF](/img/ios-v2ray.pdf)
 

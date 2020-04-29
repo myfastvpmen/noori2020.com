@@ -14,7 +14,7 @@ description: >
 
 ## 설치방법
 
-[안드로이드 일반 설치방법 PDF (준비중)](/img/android-ikev2.pdf)
+[안드로이드 일반 설치방법 PDF](/img/android-ikev2.pdf)
 
 [아이폰 일반 설치방법 PDF](/img/ios-ikev2.pdf)
 
