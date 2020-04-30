@@ -12,10 +12,13 @@ linkTitle = "누리네트워크"
 	<a class="btn btn-lg btn-secondary mr-3 mb-4" href="{{< relref "/docs/join" >}}">
 		가입신청 <i class="fas fa-arrow-alt-circle-right ml-2"></i>
 	</a>
-	<p class="lead mt-5">기존 브이피앤 방식이 아닌 최신 네트워크 기술로 다른곳보다 안정적이고 빠르게 이용가능합니다.<br>
-		한번의 주소 입력으로 서버추가 가능합니다..<br>
+	<p class="lead mt-5">기존 VPN 방식이 아닌 저희만의 최신기술(IKEv2/V2ray)로 다른곳보다 안정적이고 빠르게 이용가능합니다.<br>
+		상하이에 A/S센터 위치하여 신뢰할수 있습니다.<br>
+		만리장성 방화벽도 저희만의 최신기술을 막을 수 없습니다.<br>
 		한국 홍콩 미국등 여러서버를 이용할수 있습니다.<br>
-		별다른 프로그램 추가 없이 이용가능합니다.<br></p>
+		24/7 서버다운 없이 돌아갑니다.<br>
+		이용방법에 따라 별도의 프로그램 추가 없이도 이용가능합니다.<br>
+	</p>
 	<div class="mx-auto mt-5">
 		{{< blocks/link-down color="info" >}}<br>가격보기
 	</div>
@@ -25,12 +28,70 @@ linkTitle = "누리네트워크"
 
 {{% blocks/lead color="primary" %}}
 
-<h1>상품종류</h1>
-일반계정 : 다운속도 2Mbps 비용 488위안/년, 288위안/6개월, 188위안/월 (한국서버) 동시접속불가<br> 
-고급계정 : 다운속도 5Mbps 비용 1188위안/년, 788위안/6개월, 388위안/월 (한국/홍콩/미국 서버) 3기기 동시접속가능<br>
-공유기상품 : 다운속도 5Mbps 비용 1200위안/년, 800위안/6개월(공유기무상제공)<br>
-기업상품 : 다운속도 5Mbps 비용 2400위안/년 (공유기무상제공)<br>
-
+<div class="table container" style="max-width: max-content;">
+	<p class="lead mt-5">2020년 5월 런칭기념 할인가격! 오직 5월달만 이가격으로 할인합니다.<br>
+		30일 이내 서비스 불만족시 묻지도 따지지 않고 100% 환불해드립니다.
+	</p>
+<table style="max-width: max-content;">
+	<thead>
+	<tr>
+	<th></th>
+	<th>일반계정</th>
+	<th>고급계정</th>
+	</tr>
+	</thead>
+	
+	<tbody>
+	<tr>
+	<td>가격</td>
+	<td>1년 이용시 20위엔/월</td>
+	<td>1년 이용시 40위엔/월</td>
+	</tr>
+	
+	<tr>
+	<td>접속방식</td>
+	<td>IKEv2</td>
+	<td>V2ray</td>
+	</tr>
+	
+	<tr>
+	<td>동시접속</td>
+	<td>1기기 접속가능</td>
+	<td>동기 3기기 접속가능</td>
+	</tr>
+	
+	<tr>
+	<td>서버수</td>
+	<td>한국서버 1개</td>
+	<td>한국/미국/홍콩 등 여러서버 선택가능</td>
+	</tr>
+	
+	<tr>
+	<td>설치난이도</td>
+	<td>쉬움</td>
+	<td>약간 복잡함</td>
+	</tr>
+	
+	<tr>
+	<td>속도</td>
+	<td>10 Mps</td>
+	<td>20 Mps</td>
+	</tr>
+	
+	<tr>
+	<td>자동접속</td>
+	<td>불가</td>
+	<td>가능</td>
+	</tr>
+	
+	<tr>
+	<td>사용자설정</td>
+	<td>불가</td>
+	<td>가능</td>
+	</tr>
+	</tbody>
+	</table>
+</div>
 
 {{% /blocks/lead %}}
 
@@ -76,51 +137,16 @@ linkTitle = "누리네트워크"
 
 
 
-{{< blocks/section color="dark" >}}
-{{% blocks/feature icon="fab fa-apple" title="APPLE" %}}
-
-
-<i class="fas fa-mobile-alt"></i>  <i class="fas fa-laptop"></i>
-
-<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs" >}}">
-	설치방법 <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-</a>
-
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-windows" title="WINDOWS" %}}
-
-<i class="fas fa-mobile-alt"></i>  <i class="fas fa-laptop"></i>
-
-<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs" >}}">
-	설치방법 <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-</a>
-
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-android" title="ANDROID" %}}
-
-<i class="fas fa-mobile-alt"></i>  <i class="fas fa-laptop"></i>
-
-<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs" >}}">
-	설치방법 <i class="fas fa-arrow-alt-circle-right ml-2"></i>
-</a>
-
-{{% /blocks/feature %}}
-
-
-
-{{< /blocks/section >}}
 
 
 {{< blocks/section >}}
 
-<div class="col-12">
-<h1 class="text-center">누리네트워크위쳇 큐알코드</h1>
+<div class="col-12 text-center">
+<h1 class="text-center">누리네트워크 위쳇 큐알코드</h1>
+서비스 운영 시간 : 09:00 ~ 18:00 공휴일 제외<br><br>
+<p><img src="/img/wechatqr2.jpeg" alt="">
+</p>
 </div>
-
 {{< /blocks/section >}}
 
 

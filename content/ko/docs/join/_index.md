@@ -79,10 +79,14 @@ p.hidden {
   </p>
   <p>
     <label>기간선택: </label><select name="plan" single>
-          <option value="12momth">1년(488원)+2개월 무료</option>
-          <option value="6month">6개월(288원)</option>
-          <option value="3month">3개월(188원)</option>
-          <option value="1month">1개월(88원)</option>
+          <option value="V-12">고급:1년(480위엔)</option>
+          <option value="V-6">고급:6개월(280위엔)</option>
+          <option value="V-3">고급:3개월(160위엔)</option>
+          <option value="V-1">고급:1개월(70위엔)</option>
+          <option value="K-12">일반:1년(240위엔)</option>
+          <option value="K-6">일반:6개월(140위엔)</option>
+          <option value="K-3">일반:3개월(80위엔)</option>
+          <option value="K-1">일반:1개월(35위엔)</option>
     </select>
   </p>
     <p>
