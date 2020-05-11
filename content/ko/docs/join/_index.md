@@ -99,5 +99,69 @@ p.hidden {
 ### 추천제도
 추천한사람 받은사람 모두 1개월 무료연장
 
+<div class="table container" style="max-width: max-content;">
+	<p class="lead mt-5">2020년 5월 런칭기념 할인가격!<br>
+		30일 이내 서비스 불만족시 묻지도 따지지 않고 100% 환불해드립니다.
+	</p>
+<table style="max-width: max-content;">
+	<thead>
+	<tr>
+	<th></th>
+	<th>일반계정</th>
+	<th>고급계정</th>
+	</tr>
+	</thead>
+	
+	<tbody>
+	<tr>
+	<td>가격</td>
+	<td>1년 이용시 20위엔/월</td>
+	<td>1년 이용시 40위엔/월</td>
+	</tr>
+	
+	<tr>
+	<td>접속방식</td>
+	<td>IKEv2</td>
+	<td>V2ray</td>
+	</tr>
+	
+	<tr>
+	<td>동시접속</td>
+	<td>1기기 접속가능</td>
+	<td>동기 3기기 접속가능</td>
+	</tr>
+	
+	<tr>
+	<td>서버수</td>
+	<td>한국서버 1개</td>
+	<td>한국/미국/홍콩 등 여러서버 선택가능</td>
+	</tr>
+	
+	<tr>
+	<td>설치난이도</td>
+	<td>쉬움</td>
+	<td>약간 복잡함</td>
+	</tr>
+	
+	<tr>
+	<td>속도</td>
+	<td>10 Mps</td>
+	<td>20 Mps</td>
+	</tr>
+	
+	<tr>
+	<td>자동접속</td>
+	<td>불가</td>
+	<td>가능</td>
+	</tr>
+	
+	<tr>
+	<td>사용자설정</td>
+	<td>불가</td>
+	<td>가능</td>
+	</tr>
+	</tbody>
+	</table>
+</div>
 
 

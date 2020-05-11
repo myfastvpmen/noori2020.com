@@ -38,7 +38,7 @@ Github,외국/한국게임서버,중국게임서버등 프로그램의 프록시
 ### Q. 가격이 얼마인가요?
 
 <div class="table container" style="max-width: max-content;">
-	<p class="lead mt-5">2020년 5월 런칭기념 할인가격! 오직 5월달만 이가격으로 할인합니다.<br>
+	<p class="lead mt-5">2020년 5월 런칭기념 할인가격!<br>
 		30일 이내 서비스 불만족시 묻지도 따지지 않고 100% 환불해드립니다.
 	</p>
 <table style="max-width: max-content;">
