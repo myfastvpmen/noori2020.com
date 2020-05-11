@@ -66,19 +66,17 @@ p.hidden {
     <label>D<input name="bot-field" /></label>
   </p>
   <p>
-    <label>이메일(사용자ID): </label><input class="text" type="email" name="Email" />
+    <label>이메일: </label><input class="text" type="email" name="Email" />
   </p>
   <p>
-    <label>비밀번호: </label><input class="text" type="password" name="Password" />
+    <label>폰번호: </label> <input class="text" type="text" name="Phone" />  
   </p>
     <p>
-    <label>비밀번호확인: </label><input class="text" type="password" name="Passwordcheck" />
+    <label>위쳇ID: </label> <input class="text" type="text" name="Wechat" />  
   </p>
   <p>
-    <label>전화번호: </label> <input class="text" type="text" name="Phone" />  
-  </p>
-  <p>
-    <label>기간선택: </label><select name="plan" single>
+    <label>기간선택(할인가): </label><select name="plan" single>
+          <option value="Free">1달 무료신청</option>
           <option value="V-12">고급:1년(480위엔)</option>
           <option value="V-6">고급:6개월(280위엔)</option>
           <option value="V-3">고급:3개월(160위엔)</option>
