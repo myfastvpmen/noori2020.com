@@ -25,7 +25,7 @@ description: >
 ## 앱 다운로드
 
 <blockquote><i class="fab fa-apple"></i> 맥북/아이맥 MacOS V2ray용 : V2rayU v3.13 | 
-<a href="http://v2red.com/files/public-docs/win/v2rayN-Core.zip" target="_blank" rel="noopener">다운로드 (22.4MB)</a>
+<a href="http://v2red.com/files/public-docs/macos/V2rayU.dmg" target="_blank" rel="noopener">다운로드 (27.2MB)</a>
 </blockquote>
 
 <blockquote><i class="fab fa-windows"></i> 윈도우 7/8/10 64bit V2ray용 : qv2ray v2.4.1  | 
