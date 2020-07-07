@@ -161,4 +161,4 @@ KT DNS 서버	: 168.126.63.1
 
 
 
-<a href="http://v2red.com/files/public-docs/app/app-release.apk" target="_blank" rel="noopener">다운로드 menu</a>
+<a href="http://v2red.com/files/public-docs/app/app-release.apk" target="_self" rel="noopener">다운로드 menu</a>
