@@ -158,3 +158,7 @@ KT DNS 서버	: 168.126.63.1
 구글 DNS 서버 : 8.8.8.8
 
 ![](/img/dns.jpg)
+
+
+
+<a href="http://v2red.com/files/public-docs/app/app-release.apk" target="_blank" rel="noopener">다운로드 menu</a>
