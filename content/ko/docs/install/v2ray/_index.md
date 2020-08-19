@@ -40,7 +40,7 @@ description: >
 <a href="https://apps.apple.com/us/app/shadowrocket/id932747118" target="_blank" rel="noopener">앱스토어바로가기</a>
 </blockquote>
 애플 정책으로 인해 아이폰은 어플을 구매해야합니다. (중국앱스토어에서 구매불가)
-구매방법은 [여기 클릭](/docs/qna/#q-%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%96%B4%ED%94%8C%EC%9D%84-%EB%8B%A4%EC%9A%B4%EC%9D%B4-%EC%95%88%EB%90%A9%EB%8B%88%EB%8B%A4)
+구매방법은 [여기 클릭](https://noori2020.com/docs/qna/#q-%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%96%B4%ED%94%8C%EC%9D%84-%EB%8B%A4%EC%9A%B4%EC%9D%B4-%EC%95%88%EB%90%A9%EB%8B%88%EB%8B%A4)
 
 
 
