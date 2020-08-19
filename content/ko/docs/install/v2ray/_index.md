@@ -32,9 +32,8 @@ description: >
 <a href="http://v2red.com/files/public-docs/win/qv2ray.zip" target="_blank" rel="noopener">다운로드 (20.8MB)</a> 
 </blockquote>
 
-
-<blockquote><i class="fab fa-android"></i> 안드로이드 V2ray용 : V2RayNG v1.2.4 | 
-<a href="http://v2red.com/files/public-docs/android/v2rayNG_1.2.4.apk" target="_blank" rel="noopener">다운로드 (35MB)</a>
+<blockquote><i class="fab fa-android"></i> 안드로이드 V2ray용 : V2RayNG v1.3.1 | 
+<a href="http://v2red.com/files/public-docs/android/noori_1.3.1.apk" target="_blank" rel="noopener">다운로드 (35MB)</a>
 </blockquote>
 
 <blockquote><i class="fab fa-apple"></i> 아이폰 V2ray용 : shadowrocket | 
@@ -43,5 +42,10 @@ description: >
 애플 정책으로 인해 아이폰은 어플을 구매해야합니다. (중국앱스토어에서 구매불가)
 구매방법은 [여기 클릭](/docs/qna/#q-%EC%95%84%EC%9D%B4%ED%8F%B0-%EC%96%B4%ED%94%8C%EC%9D%84-%EB%8B%A4%EC%9A%B4%EC%9D%B4-%EC%95%88%EB%90%A9%EB%8B%88%EB%8B%A4)
 
+
+
+<blockquote><i class="fab fa-android"></i> 이전 버젼 - 안드로이드 V2ray용 : V2RayNG v1.2.4 | 
+<a href="http://v2red.com/files/public-docs/android/v2rayNG_1.2.4.apk" target="_blank" rel="noopener">다운로드 (35MB)</a>
+</blockquote>
 
 
