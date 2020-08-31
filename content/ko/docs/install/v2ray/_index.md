@@ -29,7 +29,7 @@ description: >
 </blockquote>
 
 <blockquote><i class="fab fa-windows"></i> 윈도우 7/8/10 64bit V2ray용 : qv2ray v2.4.1  | 
-<a href="http://v2red.com/files/public-docs/win/qv2ray.zip" target="_blank" rel="noopener">다운로드 (20.8MB)</a> 
+<a href="http://v2red.com/files/public-docs/win/noori-win-64.zip" target="_blank" rel="noopener">다운로드 (39.8MB)</a> 
 </blockquote>
 
 <blockquote><i class="fab fa-android"></i> 안드로이드 V2ray용 : V2RayNG v1.3.1 | 
