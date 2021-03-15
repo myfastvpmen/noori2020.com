@@ -118,6 +118,9 @@ no = 'Sorry to hear that. Please <a href="https://github.com/USERNAME/REPOSITORY
 
 # Developer relevant links. These will show up on right side of footer and in the community page if you have one.
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [[params.links.developer]]
 	name = "contact us"
 	url = "https://example.org/mail"

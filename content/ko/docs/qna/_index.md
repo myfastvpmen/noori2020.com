@@ -10,8 +10,7 @@ menu:
  
 {{% pageinfo %}}
 궁금하신 것이 있으면 위쳇으로 언제든지 문의 바랍니다.
-
-![](/img/wechatqr2.jpeg)
+<p><img src="/img/wechatqr2.jpeg" style="max-width: 200px;" alt="" /></p>
 {{% /pageinfo %}}
 
 ### Q. 환불가능한가요?

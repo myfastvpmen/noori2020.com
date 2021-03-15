@@ -5,5 +5,4 @@ weight: 1
 ---
 
 궁금하신점은 언제든지 문의해주시기 바랍니다.
-
-![](/img/wechatqr2.jpeg)
+<p><img src="/img/wechatqr2.jpeg" style="max-width: 200px;" alt="" /></p>
